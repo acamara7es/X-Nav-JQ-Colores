@@ -9,7 +9,7 @@ Igualmente, para el último de los elementos "li" anteriores, que al pasar el ra
 Puede usarse "starterkit.html", que ya tiene clases "red", "blue" y "green" que ponen el color de fondo a rojo y el color de texto a azul y verde, respectivamente, y el identificador "#orderedlist".
 
 ## Resultado
-[http://acamara7es.github.io/X-Nav-JQ-Colores/starterkit.html](http://acamara7es.github.io/X-Nav-JQ-Colores/starterkit.html)
+[https://acamara7es.github.io/X-Nav-JQ-Colores/starterkit.html](https://acamara7es.github.io/X-Nav-JQ-Colores/starterkit.html)
 
 ## Comentarios
 - El jQuery se obtiene a través de un CDN.  
